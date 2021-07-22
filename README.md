@@ -16,7 +16,7 @@ I am currently a Game Development student at iAcademy and I make games in Unity.
 ## Bayad Po! (WIP)
 <img align="left" src = "https://raw.githubusercontent.com/bulletproofpancake/GAMEPROJ2/main/Assets/Sprites/Icons/gameLogo.png?token=ANW3CEREYREWFZKPJQ73FE3BAFNOA" width=200>
 
-##### Logo by Rica Marcelo
+##### Logo by Rica Marcelo [[ArtStation](https://riiikachu.artstation.com/)]
 ##### Jeep Design by Georson Chua [[itch.io](https://zerogeorson.itch.io/), [DeviantArt](https://www.deviantart.com/zerogeorson)]
 
 <br>
