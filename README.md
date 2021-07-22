@@ -1,6 +1,6 @@
 ## Hello World!
 ### I am Jolo.
-I am currently a Game Development student at iAcademy and I make games in Unity.
+I am currently a Game Development student at iAcademy and I make games in <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" width=25>
 
 # Check out the games I've made with my classmates!
 ## Food Trip
