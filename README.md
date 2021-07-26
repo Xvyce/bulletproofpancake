@@ -15,7 +15,7 @@ I am currently a Game Development student at iAcademy and I make games in Unity.
 
 ## Bayad Po!
 [<img align="left" src = "https://raw.githubusercontent.com/bulletproofpancake/GAMEPROJ2/main/Assets/Sprites/Icons/gameLogo.png?token=ANW3CEREYREWFZKPJQ73FE3BAFNOA" width=200>](https://bulletproofpancake.itch.io/bayad-po)
-
+### Bayad Po! is a Casual Arcade Math game where the player is put in the shoes of a jeepney driver where they are tasked to bring passengers to their destination while worrying about giving their change.
 ##### Logo by Rica Marcelo [[ArtStation](https://riiikachu.artstation.com/)]
 ##### Jeep Design by Georson Chua [[itch.io](https://zerogeorson.itch.io/), [DeviantArt](https://www.deviantart.com/zerogeorson)]
 
